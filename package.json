@@ -1,0 +1,8 @@
+{
+  "name": "benaaa88",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "echo \"Build completed\"",
+    "start": "echo \"Start server\""
+  }
+}
